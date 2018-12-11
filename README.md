@@ -1,2 +1,2 @@
-# ksyueying.github.io
-个人博客
+# xmkjserv.github.io
+小墨科技服务
