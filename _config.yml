@@ -1,0 +1,8 @@
+title: Xmkjserv.GitHub.io
+description: 小墨科技服务
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
